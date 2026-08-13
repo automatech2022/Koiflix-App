@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/automatech2022/Koiflix-App/releases/latest">
+        <a href="[https://github.com/automatech2022/Koiflix-App/releases/latest](https://github.com/automatech2022/Koiflix-App/releases/download/v1.0.0/Koiflix_v1.0.apk)">
           <img src="https://img.shields.io/badge/Get_it_on-GitHub-181717?style=for-the-badge&logo=github" alt="Download APK">
         </a>
       </td>
